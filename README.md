@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Tanusri, a 4th year Computer Science and Biology Student At Western University.
 
 <!--
 **tanusrixh/tanusrixh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
